@@ -1,4 +1,4 @@
-package com.anupras.composemvvm.category.`interface`
+package com.anupras.composemvvm.category.interfaces
 
 interface IGetCategoriesUseCase {
 
